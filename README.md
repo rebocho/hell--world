@@ -2,4 +2,4 @@
 Just @nother repository
 
 Hello word here is rebocho 
-a powerfull and kind humanoid ready lift off
+a powerfull and kind humanoid ready for lift off
